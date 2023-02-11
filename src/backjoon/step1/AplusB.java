@@ -23,6 +23,7 @@ public class AplusB {
 		//https://velog.io/@cse_pebb/Java-Scanner-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%B4%9D%EC%A0%95%EB%A6%AC
 		
 		
+		
 		Scanner sc = new Scanner(System.in);
 		int a, b;
 		a = sc.nextInt();
