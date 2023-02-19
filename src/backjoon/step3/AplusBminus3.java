@@ -12,10 +12,10 @@ public class AplusBminus3 {
 		
 		T = scanner.nextInt();
 		
-		for (int i = 0; i < T; i++) {
+		for (int i = 1; i <= T; i++) {
 			A = scanner.nextInt();
 			B = scanner.nextInt();
-			System.out.println(A+B);
+			System.out.println("Case #"+i+": "+A+" + "+B+" = "+(A+B));
 		}
 
 	}
